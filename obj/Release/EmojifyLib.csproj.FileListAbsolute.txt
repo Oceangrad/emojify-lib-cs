@@ -1,0 +1,5 @@
+B:\Users\Jojoka\source\repos\Emojify\bin\Release\Emojify.dll
+B:\Users\Jojoka\source\repos\Emojify\bin\Release\Emojify.pdb
+B:\Users\Jojoka\source\repos\Emojify\obj\Release\EmojifyLib.csproj.CoreCompileInputs.cache
+B:\Users\Jojoka\source\repos\Emojify\obj\Release\Emojify.dll
+B:\Users\Jojoka\source\repos\Emojify\obj\Release\Emojify.pdb
