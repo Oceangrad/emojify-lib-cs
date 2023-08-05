@@ -4,6 +4,7 @@ Emojify any string⌛️ with🦆 this🇵🇹 library👢 for🚶🏿‍♂️ 
 # How to use:
 
 1. Download any release.
+Releases: https://github.com/Oceangrad/emojify-lib-cs/releases/tag/EmojifyLib
 
 2. In Visual Studio, click Project, and then Add Reference.
 
